@@ -5,6 +5,6 @@ def fizzbuzz(int)
     'Fizz'
   
   else 
-    puts nil 
+    nil 
   end
 end
